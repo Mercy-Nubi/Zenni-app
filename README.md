@@ -1,6 +1,6 @@
 # Zenni app redesign · clickable prototype
 
-An unofficial redesign concept of the Zenni Optical shopping app by **Mercy Nubi** (product designer & frontend), built as a clickable prototype in **React + TypeScript + Vite**.
+A redesign concept of the Zenni Optical shopping app by **Mercy Nubi** (product designer & frontend), built as a clickable prototype in **React + TypeScript + Vite**.
 
 **Live demo:** `https://<your-username>.github.io/<repo-name>/`
 
@@ -50,5 +50,3 @@ docs/                  production build for GitHub Pages
 ```
 
 ## Note
-
-Unofficial redesign concept for portfolio use only. The Zenni name, products and photography belong to Zenni Optical. Values shown in [brackets] are placeholders.
